@@ -1,13 +1,13 @@
 ---
 layout: post
 published: true
-title: Sitecore PowerShell Extensions
+title: index.html
 author: Michael West
 ---
 
 ---
 layout: default
-title: Home
+title: Sitecore PowerShell Extensions
 ---
 
 ## Sitecore PowerShell Extensions
