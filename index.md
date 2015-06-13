@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: index.html
+title: index.md
 author: Michael West
 ---
 
