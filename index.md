@@ -5,4 +5,4 @@ title: Sitecore PowerShell Extensions
 author: Michael West
 ---
 
-Sitecore PowerShell Extensions
+## Sitecore PowerShell Extensions
